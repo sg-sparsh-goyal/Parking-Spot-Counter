@@ -11,3 +11,8 @@ This project uses YOLOv8 (You Only Look Once version 8) to:
 - Provide visual output with parking slot status (Occupied/Empty)  
 
 Useful for building smart parking systems, traffic management tools, or smart city integrations.
+
+## Results
+https://github.com/user-attachments/assets/616eddf7-a0f1-4f5a-9db3-97c43edc85a9
+
+
